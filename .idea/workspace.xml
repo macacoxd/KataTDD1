@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d13ce28-d273-4bdd-826c-cf75edfdd3ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/KataTDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KataTDD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestConjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,21 @@
       <option name="presentableId" value="Default" />
       <updated>1621428576136</updated>
     </task>
+    <task id="LOCAL-00001" summary="Caso 1: Calcular promedio con conjunto vacio (Verde)">
+      <created>1621430079866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621430079866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Caso 1: Calcular promedio con conjunto de un elemento (Rojo)">
+      <created>1621430370282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621430370282</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Caso 1: Calcular promedio con conjunto vacio (Verde)" />
+    <MESSAGE value="Caso 1: Calcular promedio con conjunto de un elemento (Rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: Calcular promedio con conjunto de un elemento (Rojo)" />
   </component>
 </project>
